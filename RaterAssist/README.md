@@ -22,3 +22,6 @@ people using AI replace those who do not.
 Vamsi Krishna Gali
 MSc Computing Science | Griffith College Dublin
 linkedin.com/in/vamsi-krishna-jun302000
+
+##Demo Video 
+[Watch RaterAssist Live Demo](https://youtu.be/FNNYQaKwZbM)
