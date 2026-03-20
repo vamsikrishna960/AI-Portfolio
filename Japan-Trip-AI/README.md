@@ -34,3 +34,6 @@ with almost no tourists without being asked!
 Vamsi Krishna Gali
 MSc Computing Science | Griffith College Dublin
 linkedin.com/in/vamsi-krishna-jun302000
+
+##Demo Video
+[Watch Japan Trip AI Live Demo](https://youtu.be/SlxQhXJeb-Y)
