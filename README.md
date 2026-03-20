@@ -14,7 +14,7 @@ AI-powered search quality evaluation system.
 Automates 18 months of manual rating work
 from Cognizant Technology Solutions.
 
-### 📈 MIA — Make Instant Alerts
+### 📈 Stock Market Alert
 Stock Market Alert System that monitors 
 15 stocks and sends Gmail alerts only when 
 price targets are met.
