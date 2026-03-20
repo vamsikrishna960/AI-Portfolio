@@ -1,34 +1,36 @@
-# AI-Portfolio
-No-code Agentic AI projects built using  Make.com and n8n — RaterAssist, Stock Market  Alert System and Japan Trip AI Assistant
-AI Portfolio — Vamsi Krishna Gali
+# 🤖 AI Portfolio — Vamsi Krishna Gali
+
+> AI Project Manager | MSc Computing Science
+> Griffith College Dublin | Dublin, Ireland 🇮🇪
 
 ## About
-Collection of no-code Agentic AI workflows 
-built during my MSc Computing Science at 
-Griffith College Dublin.
+No-code Agentic AI workflows built during 
+MSc Computing Science at Griffith College 
+Dublin. All projects built without writing 
+a single line of code.
 
 ## Projects
 
 ### 🔬 RaterAssist
-AI-powered search quality evaluation system.
-Automates 18 months of manual rating work
-from Cognizant Technology Solutions.
+AI tool that automates 18 months of manual 
+search quality evaluation work from Cognizant.
+[View Project](./RaterAssist)
 
-### 📈 Stock Market Alert
-Stock Market Alert System that monitors 
-15 stocks and sends Gmail alerts only when 
-price targets are met.
+### 📈 MIA — Stock Market Alert System
+Automated stock monitoring with smart Gmail 
+alerts. 15 stocks monitored, 11 unnecessary 
+notifications blocked.
+[View Project](./Stock-Market-Alerts)
 
 ### 🗺️ Japan Trip AI Assistant
-Automated travel planning workflow that 
-delivers personalised trip recommendations 
-via email.
+Personalised travel planning workflow with 
+automated email delivery.
+[View Project](./Japan-Trip-AI)
 
-## Tools Used
+## Tools
 Make.com | n8n | Google Sheets | 
-Gmail | Make AI Toolkit
+Gmail | Make AI Toolkit | Prompt Engineering
 
-## About Me
-MSc Computing Science | Griffith College Dublin
-Target: AI Project Manager in Ireland 🇮🇪
+## Connect
 LinkedIn: linkedin.com/in/vamsi-krishna-jun302000
+Email: vamsikrishnagali98@gmail.com
