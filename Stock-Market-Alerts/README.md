@@ -30,3 +30,6 @@ by 73% — delivering only genuine alerts.
 Vamsi Krishna Gali
 MSc Computing Science | Griffith College Dublin
 linkedin.com/in/vamsi-krishna-jun302000
+
+##Demo Video
+[Watch Stock-Market-Alert Live Demo](https://youtu.be/2CcvHIEa0Q4)
