@@ -16,7 +16,7 @@ AI tool that automates 18 months of manual
 search quality evaluation work from Cognizant.
 [View Project](./RaterAssist)
 
-### 📈 MIA — Stock Market Alert System
+### 📈 Stock Market Alert System
 Automated stock monitoring with smart Gmail 
 alerts. 15 stocks monitored, 11 unnecessary 
 notifications blocked.
