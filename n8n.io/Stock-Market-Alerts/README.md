@@ -20,7 +20,7 @@ Exact target price hit
 n8n.io | Google Sheets | Gmail
 
 ## Workflow
-[Schedule_Trigger] → [Google sheets] → [Wait] → [Basic Chain LLM] → [groq chat model] → [If node] → [GMail]
+[Schedule_Trigger] → [Google sheets] →[AI] → [GMail]
 
 ## Key Achievement
 Smart filter reduced unnecessary emails 
