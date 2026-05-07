@@ -14,18 +14,18 @@ a single line of code.
 ### 🔬 RaterAssist
 AI tool that automates 18 months of manual 
 search quality evaluation work from Cognizant.
-[View Project](./RaterAssist)
+[View Project](Make.com/RaterAssist)
 
 ### 📈 Stock Market Alert System
 Automated stock monitoring with smart Gmail 
 alerts. 15 stocks monitored, 11 unnecessary 
 notifications blocked.
-[View Project](./Stock-Market-Alerts)
+[View Project](Make.com/Stock-Market-Alerts)
 
 ### 🗺️ Japan Trip AI Assistant
 Personalised travel planning workflow with 
 automated email delivery.
-[View Project](./Japan-Trip-AI)
+[View Project](Make.com/Japan-Trip-AI)
 
 ## Tools
 Make.com | n8n | Google Sheets | 
