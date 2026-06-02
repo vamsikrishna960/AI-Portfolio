@@ -27,6 +27,21 @@ Personalised travel planning workflow with
 automated email delivery.
 [View Project](Make.com/Japan-Trip-AI)
 
+
+## 📄 Published Research
+
+This portfolio is the foundation of
+my published research paper:
+
+**"Evaluating No-Code Agentic AI
+Frameworks for Enterprise Automation:
+A Practical Comparison of Make.com
+and n8n.io"**
+
+DOI: [10.5281/zenodo.20509917](https://doi.org/10.5281/zenodo.20509917)
+
+
+
 ## Tools
 Make.com | n8n | Google Sheets | 
 Gmail | Make AI Toolkit | Prompt Engineering
