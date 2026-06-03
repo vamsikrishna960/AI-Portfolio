@@ -38,6 +38,7 @@ Frameworks for Enterprise Automation:
 A Practical Comparison of Make.com
 and n8n.io"**
 
+📥 [Read the Paper (PDF)](./Research_Paper_NoCode_Agentic_AI.pdf)
 DOI: [10.5281/zenodo.20509917](https://doi.org/10.5281/zenodo.20509917)
 
 
