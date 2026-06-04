@@ -27,6 +27,15 @@ Demonstrates AI-supported financial compliance,
 relevant to banking, fintech, and AML teams
 in Ireland's financial services sector.
 
+## 📋 Product Requirements Document
+
+This project includes a full PRD covering 
+problem statement, objectives, user personas, 
+functional and non-functional requirements, 
+risks, EU AI Act compliance, and success criteria.
+
+📥 [Read the PRD (PDF)](./AML_PRD_Vamsi_Krishna.pdf)
+
 ## Demo Video
 [Watch Live Demo](https://youtu.be/PvuzUavQc8c)
 
