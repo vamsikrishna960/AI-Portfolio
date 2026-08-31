@@ -11,7 +11,8 @@ Real-time Anti-Money Laundering risk analysis on live Bitcoin blockchain transac
 
 🛡️ SentryAML — Transaction Risk Monitor
 
-An AI-powered AML transaction screening system with a live dashboard. Analyses transactions against money-laundering red flags, scores each LOW/MEDIUM/HIGH with clear reasoning, and surfaces high-risk activity instantly. Includes a full Product Requirements Document (PRD). n8n · LLM (Groq) · Google Sheets · GitHub Pages 🔗 Live dashboard · 🎥 Video demo
+An AI-powered AML transaction screening system with a live dashboard. Analyses transactions against money-laundering red flags, scores each LOW/MEDIUM/HIGH with clear reasoning, and surfaces high-risk activity instantly. Includes a full Product Requirements Document (PRD). n8n · LLM (Groq) · Google Sheets · GitHub Pages 
+
 
 🔧 Other Projects
 RaterAssist — AI Search Quality Evaluator — automates content and search-quality evaluation using an LLM, benchmarking results across multiple criteria.
