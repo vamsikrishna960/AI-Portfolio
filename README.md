@@ -1,52 +1,31 @@
-# 🤖 AI Portfolio — Vamsi Krishna Gali
+# AI Portfolio — Gali Vamsi Krishna
 
-> AI Project Manager | MSc Computing Science
-> Griffith College Dublin | Dublin, Ireland 🇮🇪
+MSc Computing Science student and published AI researcher, working toward a career as an AI Product Manager. This portfolio brings together the AI systems I've built — from no-code agentic workflows to live, real-data risk-analysis systems.
 
-## About
-No-code Agentic AI workflows built during 
-MSc Computing Science at Griffith College 
-Dublin. All projects built without writing 
-a single line of code.
+Each project links to its own repository with full details.
 
-## Projects
+⭐ Featured Projects
+🪙 Bitcoin AML Monitor
 
-### 🔬 RaterAssist
-AI tool that automates 18 months of manual 
-search quality evaluation work from Cognizant.
-[View Project](Make.com/RaterAssist)
+Real-time Anti-Money Laundering risk analysis on live Bitcoin blockchain transactions. Pulls genuine transactions from the network in real time and flags them for suspicious patterns — whale movements, layering, structuring, and dust. Mirrors how real crypto-compliance firms operate. n8n · Blockchain API · JavaScript · AML rules
 
-### 📈 Stock Market Alert System
-Automated stock monitoring with smart Gmail 
-alerts. 15 stocks monitored, 11 unnecessary 
-notifications blocked.
-[View Project](Make.com/Stock-Market-Alerts)
+🛡️ SentryAML — Transaction Risk Monitor
 
-### 🗺️ Japan Trip AI Assistant
-Personalised travel planning workflow with 
-automated email delivery.
-[View Project](Make.com/Japan-Trip-AI)
+An AI-powered AML transaction screening system with a live dashboard. Analyses transactions against money-laundering red flags, scores each LOW/MEDIUM/HIGH with clear reasoning, and surfaces high-risk activity instantly. Includes a full Product Requirements Document (PRD). n8n · LLM (Groq) · Google Sheets · GitHub Pages 🔗 Live dashboard · 🎥 Video demo
 
+🔧 Other Projects
+RaterAssist — AI Search Quality Evaluator — automates content and search-quality evaluation using an LLM, benchmarking results across multiple criteria.
+Stock Market Alert System — an API and webhook-driven workflow that monitors stocks and delivers only high-value alerts.
+AI Travel Assistant — an agentic workflow that plans and personalises travel using AI.
+📄 Research
 
-## 📄 Published Research
+Evaluating No-Code Agentic AI Frameworks for Enterprise Automation: A Practical Comparison of Make.com and n8n.io Published on Zenodo · DOI: 10.5281/zenodo.20509917
 
-This portfolio is the foundation of
-my published research paper:
+🎯 What I'm Building Toward
 
-**"Evaluating No-Code Agentic AI
-Frameworks for Enterprise Automation:
-A Practical Comparison of Make.com
-and n8n.io"**
+I combine hands-on building (agentic AI, live data pipelines, real-time dashboards) with product thinking (requirements, metrics, AI governance and EU AI Act awareness). My goal is to build AI products that are not just impressive — but responsible, explainable, and genuinely useful.
 
-📥 [Read the Paper (PDF)](./Research_Paper_NoCode_Agentic_AI.pdf)
-DOI: [10.5281/zenodo.20509917](https://doi.org/10.5281/zenodo.20509917)
-
-
-
-## Tools
-Make.com | n8n | Google Sheets | 
-Gmail | Make AI Toolkit | Prompt Engineering
-
-## Connect
+👤 Connect
 LinkedIn: linkedin.com/in/vamsi-krishna-jun302000
-Email: vamsikrishnagali98@gmail.com
+GitHub: github.com/Vamsikrishna960
+
